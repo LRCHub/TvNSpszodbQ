@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "サクラノ詩 OST - ZYPRESSENの花束",
+  "base_artist": "sexytime10",
+  "createdAt": "2025-12-01T12:02:13.660153Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さくらの詩",
+      "artist": "DEZERT",
+      "has_synced": false,
+      "path": "select/pl_01_さくらの詩_DEZERT.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "さくらの詩",
+      "artist": "DEZERT",
+      "has_synced": false,
+      "path": "select/pl_02_さくらの詩_DEZERT.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "さくらの詩 -Unplugged α-",
+      "artist": "DEZERT",
+      "has_synced": false,
+      "path": "select/pl_03_さくらの詩_-Unplugged_α-_DEZERT.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "さくらの詩 -Unplugged β-",
+      "artist": "DEZERT",
+      "has_synced": false,
+      "path": "select/pl_04_さくらの詩_-Unplugged_β-_DEZERT.txt"
+    }
+  ]
+}
